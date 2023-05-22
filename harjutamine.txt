@@ -1,1 +1,11 @@
 saan githubi kasutada teisel kursusel programmeerimistunnis.
+Tüüp	Tütarettevõte
+Asutatud	8. veebruar 2008
+San Francisco, California, USA
+Asutajad - Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon
+Peakorter -	San Francisco, California, USA
+Võtmeisikud	- Nat Friedman (tegevdirektor), Erica Brescia[1] (tegevjuht), Carrie Olesen (personalijuht), Mike Taylor (finantsjuht)
+Valdkonnad	- Arvutitarkvara
+Töötajaid	888
+Emafirma	Microsoft (aastast 2018)
+Koduleht	GitHub.com
